@@ -10,7 +10,7 @@
 
 ## How to use the project
 	1. Open Visual Studio and click "Clone Repository".
-	2. Enter the link  as the repository location.
+	2. Enter the link https://github.com/GeraldineGavina/api-test-automation-exam as the repository location.
 	3. Click Clone button
 	4. Click Test Menu > Run All Tests
 

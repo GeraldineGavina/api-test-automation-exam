@@ -1,20 +1,20 @@
-#ATC - API Test Exam
+# ATC - API Test Exam
 
-##Application
+## Application
 	• Visual Studio
 	
-##Framework and Library
+## Framework and Library
 	• Nunit.Framework
 	• RestSharp
 	• Newtonsoft.Json
 
-##How to use the project
+## How to use the project
 	1. Open Visual Studio and click "Clone Repository".
 	2. Enter the link  as the repository location.
 	3. Click Clone button
 	4. Click Test Menu > Run All Tests
 
-##Available Test
+## Available Test
 	• API 1: Get All Products List
 	• API 2: POST To All Products List
 	• API 3: Get All Brands List

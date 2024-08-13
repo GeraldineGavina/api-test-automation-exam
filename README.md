@@ -28,5 +28,3 @@
 	• API 11: POST To Create/Register User Account
 	• API 12: DELETE METHOD To Delete User Account
 	• API 13: PUT METHOD To Update User Account
-	
-	11111

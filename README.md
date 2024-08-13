@@ -29,5 +29,4 @@
 	• API 12: DELETE METHOD To Delete User Account
 	• API 13: PUT METHOD To Update User Account
 	
-	
-adfadsf
+	11111
